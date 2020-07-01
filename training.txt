@@ -1,2 +1,2 @@
 Lab#2 for generating conflicts
-HSBC Advanced SCM course lab#2
+HSBC ITID Advanced SCM course lab#2
