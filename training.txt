@@ -1,1 +1,2 @@
 Lab#2 for generating conflicts
+Advanced SCM course lab#2
